@@ -39,3 +39,5 @@ Advantages of KPIM:
 + Facilitates strategic decision-making with deep visualization tools.
 + Streamlines the analytical process, saving time and increasing efficiency.
 + Lays a robust foundation for developing and executing intelligent business strategies.
+  
+<img width="1155" alt="Sales Reports Overview" src="https://github.com/Miamac1506/retails-store-crm-analysis/assets/145936074/417c21b7-5d4b-44b6-b92b-05f757ae2304">
