@@ -56,6 +56,8 @@ Advantages:
 + Enhances business efficiency and responsiveness to market dynamics.
 + Provides a detailed foundation for strategic adjustments and planning.
 
+  <img width="974" alt="Revenue Analysis Report" src="https://github.com/Miamac1506/retails-store-crm-analysis/assets/145936074/c6401bae-7443-4df3-b17f-1e4a717d7acf">
+
 ### 3. Customer Analysis Report
 Features of KPIM's RFM Model Implementation:
 + Utilizes RFM (Recency, Frequency, Monetary) model for customer segmentation.
@@ -69,6 +71,8 @@ Advantages of KPIM&#39;s Approach:
 + Tailors customer care programs by understanding customer behavior.
 + Enhances responsiveness to customer needs and purchasing patterns.
 + Facilitates smart, convenient decisions in customer relationship management.
+
+<img width="972" alt="Customer Analysis Report" src="https://github.com/Miamac1506/retails-store-crm-analysis/assets/145936074/3027177a-9ee5-44b0-b5c2-057cfc1e6189">
 
 ### 4. Order Analysis Report
 Features of KPIM’s Order Transportation Monitoring:
@@ -86,6 +90,8 @@ Advantages of KPIM’s System:
 + Enables the identification of process bottlenecks to improve operational efficiency.
 + Enhances customer satisfaction through better service delivery.
 
+<img width="979" alt="Order Analysis Report" src="https://github.com/Miamac1506/retails-store-crm-analysis/assets/145936074/44674d18-f02a-4349-890c-4df06623f9cc">
+
 ### 5. Store Analysis Report
 Features of KPIM’s Supermarket Manager Oversight:
 + Detailed operational oversight across managed supermarkets.
@@ -100,3 +106,5 @@ Advantages for Managers:
 + Facilitates informed decision-making to drive individual and regional supermarket
 performance.
 + Ensures prompt and accurate achievement of business goals.
+
+<img width="975" alt="Store Analysis Report" src="https://github.com/Miamac1506/retails-store-crm-analysis/assets/145936074/df785520-0b79-49d6-86b4-00447dac8d43">
