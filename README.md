@@ -27,15 +27,15 @@ KPIM POWER BI SHOWCASE
 + Yearly Performance Analysis: Enables detailed examination of yearly reports to
 analyze regional manager revenues and product line growth compared to previous
 years.
- Customizable Viewing Options: Allows users to view targets by year, month, or
++ Customizable Viewing Options: Allows users to view targets by year, month, or
 cumulatively, with tracking for monthly indicator fluctuations within a given year.
- Comparative Analysis: Facilitates comparison between actual performance and
++ Comparative Analysis: Facilitates comparison between actual performance and
 planned targets, and provides an aggregated view of data by geographical area, store,
 and from individual product types to broader product groups.
  Proactive Alert System: If revenues fall below plans, the system issues alerts for
 managers to evaluate and adjust strategies timely.
 
 Advantages of KPIM:
- Facilitates strategic decision-making with deep visualization tools.
- Streamlines the analytical process, saving time and increasing efficiency.
- Lays a robust foundation for developing and executing intelligent business strategies.
++ Facilitates strategic decision-making with deep visualization tools.
++ Streamlines the analytical process, saving time and increasing efficiency.
++ Lays a robust foundation for developing and executing intelligent business strategies.
