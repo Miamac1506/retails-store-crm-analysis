@@ -4,7 +4,7 @@
   KPIM has recently deployed a new method to assist the KPIM MART retail
 supermarket chain in developing effective business performance reports. This method utilizes
 the PowerBI tool to create smart dashboards, providing a comprehensive view of the
-company'39;s financial performance, thereby helping the management team to easily monitor and
+company' financial performance, thereby helping the management team to easily monitor and
 assess business operations. These dashboards not only organize and visually present data but
 also enable the company to quickly identify factors affecting profitability, including detailed
 analysis of revenue, costs, and profit by department, as well as pinpointing inefficient
